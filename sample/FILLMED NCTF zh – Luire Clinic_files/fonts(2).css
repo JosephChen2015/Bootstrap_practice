@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'FZLanTingHeiS';
+    src: url('FZLTCXHJW.eot');
+    src: url('FZLTCXHJW.eot?#iefix') format('embedded-opentype'),
+        url('FZLTCXHJW.woff2') format('woff2'),
+        url('FZLTCXHJW.woff') format('woff'),
+        url('FZLTCXHJW.ttf') format('truetype'),
+        url('FZLTCXHJW.svg#FZLTCXHJW') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

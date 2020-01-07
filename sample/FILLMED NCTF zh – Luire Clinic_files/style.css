@@ -1,0 +1,13 @@
+/*
+Theme Name: Luire Clinic
+Description: Exponent Child Theme developed for luire clinic
+Author: Brand Exponents
+Template: exponent
+Version: 1.0
+*/
+
+#footer .tatsu-row .tatsu-one-fourth .tatsu-ti-wrap .tatsu-ti-icon {
+    background: #ac608e;
+    padding: 5px;
+    border-radius: 5px;
+  }
